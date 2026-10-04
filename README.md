@@ -1,4 +1,4 @@
-## Hi there, I'm Igor 👋
+## Hi there, I'm Igor
 
 - 👀 I’m interested in JavaScript, PHP, Progressive Web Apps
 - 🌱 I’m currently learning a bit of everything
